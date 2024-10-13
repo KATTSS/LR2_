@@ -31,20 +31,6 @@
 //     return 0;
 // }
 
-// #include <iostream>
- 
-// int main() {
-//     int array[4] = { 5, 8, 6, 4 };
- 
-//     std::cout << sizeof(array) << '\n'; // выведется sizeof(int) * длина_array = 16 или 32
-//                                         // в зависимости от архитектуры
- 
-//     int *ptr = array;
-//     std::cout << sizeof(ptr) << '\n'; // выведется размер указателя, т.е. 8 или 4 
-//                                       // в зависимости от архитектуры
- 
-//     return 0;
-// }
 
 // void func(int value) //что это такое?
 // {
